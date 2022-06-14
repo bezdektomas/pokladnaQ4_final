@@ -1,0 +1,15 @@
+        ID objednávky: 	56
+####################################
+
+Tasty Cheese                  39  Kč
+
+Slanina                       10  Kč
+
+Cibule                        5   Kč
+
+Kečup                         5   Kč
+
+  Celková cena objednávky: 59 Kč
+####################################
+
+	Děkujeme za návštěvu.

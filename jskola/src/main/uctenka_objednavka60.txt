@@ -1,0 +1,17 @@
+        ID objednávky: 	60
+####################################
+
+Malinovka                     33  Kč
+
+6 ks McNugets                 129 Kč
+
+Salát                         0   Kč
+
+Sprite                        0   Kč
+
+Sýrové kroužky                39  Kč
+
+  Celková cena objednávky: 201 Kč
+####################################
+
+	Děkujeme za návštěvu.

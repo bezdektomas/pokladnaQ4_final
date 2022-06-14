@@ -1,0 +1,21 @@
+        ID objednávky: 	2
+####################################
+
+McChicken                     129 Kč
+
+Salát                         0   Kč
+
+Fanta                         0   Kč
+
+Sýrové kroužky                39  Kč
+
+Lipton                        39  Kč
+
+Bez ledu                      0   Kč
+
+Nanuk                         30  Kč
+
+  Celková cena objednávky: 237 Kč
+####################################
+
+	Děkujeme za návštěvu.

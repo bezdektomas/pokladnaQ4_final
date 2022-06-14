@@ -1,0 +1,11 @@
+        ID objednávky: 	61
+####################################
+
+Big Mac                       89  Kč
+
+Slanina                       10  Kč
+
+  Celková cena objednávky: 99 Kč
+####################################
+
+	Děkujeme za návštěvu.

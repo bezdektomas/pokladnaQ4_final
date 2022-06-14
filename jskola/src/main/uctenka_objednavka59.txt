@@ -1,0 +1,35 @@
+        ID objednávky: 	59
+####################################
+
+McChicken                     129 Kč
+
+Salát                         0   Kč
+
+Fanta                         0   Kč
+
+Voda                          29  Kč
+
+Bez ledu                      0   Kč
+
+Nanuk                         30  Kč
+
+Cheeseburger                  33  Kč
+
+Bez okurky                    0   Kč
+
+Salát                         0   Kč
+
+Sprite                        0   Kč
+
+Sladkokyselá omáčka           10  Kč
+
+Kečup                         6   Kč
+
+Taštička                      29  Kč
+
+Sýrové kroužky                39  Kč
+
+  Celková cena objednávky: 2304 Kč
+####################################
+
+	Děkujeme za návštěvu.

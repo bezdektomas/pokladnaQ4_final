@@ -1,0 +1,11 @@
+        ID objednávky: 	46
+####################################
+
+Nanuk                         30  Kč
+
+Big Mac                       89  Kč
+
+  Celková cena objednávky: 119 Kč
+####################################
+
+	Děkujeme za návštěvu.
